@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WellnessDoctorSide</string>
+    <string name="title_activity_display_patients">DisplayPatients</string>
+    <string name="title_activity_patient_emotions">PatientEmotions</string>
+</resources>
